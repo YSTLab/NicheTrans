@@ -1,0 +1,22 @@
+Details of codes and corresponding figures.
+File	                                                                    Figures/Description
+Tutorial 3.1: Train NicheTrans on SMA data.ipynb	                        Figure 3
+Tutorial 3.2: Visualize results.ipynb	                            	      Figure 3C
+Tutorial 3.3: Attribution analysis.ipynb	                                Figure 4G
+Tutorial 4.1: Train NicheTrans* on SMA data.ipynb	                        Figure 3
+Tutorial 4.2: Visualize results.ipynb	                            	      Figure 3C
+Tutorial 5.1: Train NicheTrans on STARmap PLUS data.ipynb	                Figure 5
+Tutorial 5.2: Visualize results on AD sample.ipynb	                      Figure 5E, F
+Tutorial 5.3: Visualize results on WT sample.ipynb	                      Figure 5H
+Tutorial 6.1: Train NicheTrans* on STARmap PLUS data.ipynb	              Figure 5
+Tutorial 6.2: Visualize results on AD sample.ipynb	                      Figure 5E, F
+Tutorial 6.3: Visualize results on WT sample.ipynb	                      Figure 5H
+Tutorial 6.4: STARmap_PLUS_cell_type_attribution.ipynb	            	    Figure 6C
+Tutorial 6.5: STARmap_PLUS_input_gene_attribution.ipynb	            	    Figure 6D
+Tutorial 6.6: STARmap_PLUS_input_gene_attribution_niche.ipynb	    	      ED_Figures 7,8
+Tutorial 7.1: Train NicheTrans on 10x Xenium data.ipynb	            	    ED_Figure 5
+Tutorial 7.2: Visualize results.ipynb	                            	      ED_Figure 5D
+Tutorial 8.1: Train NicheTrans on human lymph node data.ipynb	    	      ED_Figure 5
+Tutorial 8.2: Visualize results.ipynb	                                    ED_Figure 5H
+Tutorial 9.1: Train & test NicheTrans on MISAR-seq(atac2rna).ipynb	      Figure S11
+Tutorial 9.2: Train & test NicheTrans on MISAR-seq(rna2atac).ipynb    	  Figure S11

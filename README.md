@@ -66,4 +66,4 @@ If you find our work useful, please cite:
 ```
 
 ## Contact
-If you have any questions, please don't hesitate to contact us. E-mail: [zkwang00@gmail.com](mailto:zkwang00@gmail.com); [zhiyuan@fudan.edu.cn](mailto:zhiyuan@fudan.edu.cn).
+If you have any questions, please don't hesitate to contact us. E-mail: [zhikangwang@fudan.edu.cn](mailto:zhikangwang@fudan.edu.cn); [zhiyuan@fudan.edu.cn](mailto:zhiyuan@fudan.edu.cn).

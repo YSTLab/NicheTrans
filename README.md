@@ -53,6 +53,7 @@ Apart from the spatial cross-omics translation, we also provided guidelines for 
 ## Citation
 
 If you find our work useful, please cite:
+```bibtex
 @article{wang2026nichetrans,
   title={NicheTrans: spatial-aware cross-omics translation},
   author={Wang, Zhikang and Zou, Qi and Lin, Senlin and Li, Sijie and Cui, Yan and Zhang, Daoliang and Han, Chuangyi and Li, Yida and Li, Jianmin and Zhao, Yi and others},
@@ -62,6 +63,7 @@ If you find our work useful, please cite:
   publisher={Nature Publishing Group US New York},
   doi     = {10.1038/s41592-026-03153-3}
 }
+```
 
 ## Contact
 If you have any questions, please don't hesitate to contact us. E-mail: [zkwang00@gmail.com](mailto:zkwang00@gmail.com); [zhiyuan@fudan.edu.cn](mailto:zhiyuan@fudan.edu.cn).
